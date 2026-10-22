@@ -33,7 +33,7 @@ Benefits:
 3. Innovation and uniqueness of the solution:
    • **AI-Driven Demand Forecasting:** Utilizes machine learning models to analyze historical consumption patterns and market trends, helping farmers decide what crops to grow and when to harvest.
    • **Smart Route Optimization:** Integrated logistics engine that automatically groups orders and calculates the most fuel-efficient delivery routes for transport vehicles.
-   • **FPO Pooling:** Empowers small and marginal farmers to aggregate their produce through local FPOs to meet bulk buyer demands easily. 
+   • **FPO Pooling:** Empowers small and marginal farmers to aggregate their produce through local FPOs to meet bulk buyer demands easily.
 
 ## Technical Approach
 1. Technologies to be used:
@@ -47,7 +47,10 @@ Benefits:
    • **Phase 1 (Requirements & Design):** Finalize use-case diagrams, database schema, and UI/UX wireframes.
    • **Phase 2 (Core Development):** Build the user authentication system, product listing catalog, and order placement workflow.
    • **Phase 3 (AI Integration):** Embed the demand forecasting and route optimization algorithms into the backend.
-   • **Phase 4 (Testing & Deployment):** Conduct unit testing, user acceptance testing (UAT), and deploy the application to cloud servers. 
+   • **Phase 4 (Testing & Deployment):** Conduct unit testing, user acceptance testing (UAT), and deploy the application to cloud servers.
+### Architecture & Workflow Diagram
+<img width="1536" height="1024" alt="KisanConnect Technical Approach Infographic" src="https://github.com/user-attachments/assets/b140d8a6-53d1-41b3-a708-6e51b582f0b1" />
+
 
 ## Feasibility and Viability
 1. • **Technical Feasibility:** With rising smartphone and mobile internet penetration in rural areas, farmers can easily access the platform via mobile apps or SMS-based USSD integrations. Cloud platforms ensure high availability and scalability.
@@ -76,3 +79,5 @@ Benefits:
 1. • Ministry of Consumer Affairs, Food & Public Distribution guidelines on agricultural supply chains.
    • NITI Aayog reports on Agricultural Marketing and Farmer Producer Organizations (FPOs).
    • Research papers on machine learning applications in agricultural logistics and demand forecasting.
+
+  
